@@ -4,3 +4,5 @@ MAGASIN D'OUTILS DISPONIBLE SUR INTERNET
 MAGASIN D'EXTENSIONS POUR KODI DISPONIBLE AU https://github.com/ludopotte/Stores/releases/tag/KodiStore
 
 MAGASIN D'OUTILS POUR GEEK DISPONIBLE AU https://github.com/ludopotte/Stores/releases/tag/LudoGeek
+
+MAGASIN D'EXTENSIONS POUR NAVIGATEUR INTERNET AU https://github.com/ludopotte/Stores/releases/tag/WebStore
