@@ -8,3 +8,5 @@ MAGASIN D'OUTILS POUR GEEK DISPONIBLE AU https://github.com/luluvulcain/LudoGeek
 MAGASIN D'EXTENSIONS POUR NAVIGATEUR INTERNET AU https://github.com/ludopotte/Stores/releases/tag/WebStore
 
 MAGASIN D'APPLICATIONS ANDROID AU https://github.com/ludopotte/Stores/releases/tag/PocketAppStore
+
+LOGICIEL DE PARTAGE DE FICHIERS AU https://github.com/ludopotte/Stores/releases/tag/gigatribe
